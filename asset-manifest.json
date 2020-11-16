@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/veg-feature-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/veg-feature-test/static/js/main.6fbe22ce.chunk.js",
+    "main.js.map": "/veg-feature-test/static/js/main.6fbe22ce.chunk.js.map",
+    "runtime-main.js": "/veg-feature-test/static/js/runtime-main.94322227.js",
+    "runtime-main.js.map": "/veg-feature-test/static/js/runtime-main.94322227.js.map",
+    "static/js/2.20b0c166.chunk.js": "/veg-feature-test/static/js/2.20b0c166.chunk.js",
+    "static/js/2.20b0c166.chunk.js.map": "/veg-feature-test/static/js/2.20b0c166.chunk.js.map",
+    "static/js/3.10b1bb06.chunk.js": "/veg-feature-test/static/js/3.10b1bb06.chunk.js",
+    "static/js/3.10b1bb06.chunk.js.map": "/veg-feature-test/static/js/3.10b1bb06.chunk.js.map",
+    "index.html": "/veg-feature-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/veg-feature-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.20b0c166.chunk.js.LICENSE.txt": "/veg-feature-test/static/js/2.20b0c166.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94322227.js",
+    "static/js/2.20b0c166.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6fbe22ce.chunk.js"
+  ]
+}
